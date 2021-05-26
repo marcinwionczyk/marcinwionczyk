@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcinwionczyk
 - 👀 I’m interested in experimenting with electronics and programming
-- 🌱 I’m currently learning how to code in [Rust](https://www.rust-lang.org/) and how to create web services based on [actix-web](https://actix.rs/) and frontend made in [React.js](https://reactjs.org/)
+- 🌱 I’m currently learning how to code in [Rust](https://www.rust-lang.org/) and how to create web services based on [actix-web](https://actix.rs/) with frontend made in [React.js](https://reactjs.org/)
 - 💞️ I’m looking to collaborate on ..
 - 📫 
 
